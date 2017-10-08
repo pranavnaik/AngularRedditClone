@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+.ul.li.a{
+    margin-top:5px;
+    
+}
+.logo{
+  margin-right:2em;
+  margin-left: 2em;
+}
+
+.navbar-brand{
+    padding-left:25px;
+    font-size: 25px;
+    line-height:50px;
+}
+
+
+.logoImg{
+    width: 215px;
+    border-left: 2px solid lightgray;
+    border-right: 2px solid lightgray;
+
+}
